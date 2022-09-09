@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Firebase authentication Email and Password work at the first time
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
